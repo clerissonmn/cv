@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "CV | Prof. Clerisson"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Clerisson Nascimento, Dr."
+resume_title:                   "Professor • Pesquisador • Analista de Dados"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
@@ -20,16 +20,16 @@ resume_contact_email:           "lisasimpson@youremailaddress.com"
 resume_contact_telephone:       "555-7334"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:      "clerisson.mn@gmail.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p align=\"justify\">Possui bacharelado e mestrado em Física com doutorado e pós-doutorado em Engenharia Elétrica; atua como pesquisador em softwares para o ensino da Física, automação residencial (domótica), nanodispositivos fotônicos e plasmônicos aplicados em telecomunicações nas faixas das microondas e THz; no setor corporativo, exerce atividades como consultor independente em análise de dados com ênfase em Business Intelligence; é professor do nível técnico e superior, atuando nas disciplinas de Física, Matemática e outras disciplinas de base nos cursos de engenharia. Atualmente é professor de fisica  e matemática dos curso da Escola de Formação de Oficiais da Marinha Mercante (EFFOMM) lotado no Centro de Instrução Almirante Braz de Aguiar (CIABA).</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+# resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
@@ -40,19 +40,19 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/clerissonmn"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/clerisson-nascimento-83a566226/"
+  resume_instagram_url:         "https://www.instagram.com/clerissonmn"
+  resume_website_url:           "https://clerissonmn.github.io"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
