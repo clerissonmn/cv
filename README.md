@@ -1,7 +1,12 @@
-# My Resume
+# Pillar
 
-*Source code of my resume*
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-## Acknowledgement
+## Installation
 
-This is a fork of [`resume-template` by jglovier](https://github.com/jglovier/resume-template)
+## Skins
+
+## License
+
+This project is licensed under the [MIT license](LICENSE.txt).
