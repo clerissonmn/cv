@@ -4,7 +4,7 @@
 
 header:
   # Profile information
-  avatar: avatar.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   email: clerisson@qldata.com.br
   phone: +55 91 9 8236-6631
   website: https://clerissonmn.github.io
