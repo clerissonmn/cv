@@ -104,7 +104,7 @@ education:
 experiences:
   - role: Founder & CEO
     time: 2018 - Atual
-    company: QualiData Treinamentos
+    company: QUALIDATA TREINAMENTOS
     details: |
       Atua na condução de treinamentos corporativos especializados em tecnologia e 
       análise de dados, com foco em transformar dados brutos em informações estratégicas 
@@ -117,30 +117,39 @@ experiences:
       desc: |
         Como resultado desta atuação podemos destacar.
       highlights:
-        - "Melhoria na eficiência: processos de análise de dados realizados de forma mais rápida e organizada."
-        - "Decisões mais assertivas: uso de dados confiáveis para direcionar ações estratégicas."
-        - "Equipe mais capacitada: colaboradores preparados para lidar com ferramentas como Power BI e Python."
-        - "Aumento da produtividade: automação de tarefas rotineiras, liberando mais tempo para atividades importantes."
-        - "Redução de custos: otimização de processos internos, diminuindo desperdícios."
-        - "Geração de insights valiosos: identificação de tendências e oportunidades para melhorar resultados."
-        - "Promoção de inovação: fortalecimento de uma cultura corporativa orientada por dados."
+        - "Processos de análise de dados realizados de forma mais rápida e organizada;"
+        - "Uso de dados confiáveis para direcionar ações estratégicas;"
+        - "Colaboradores preparados para lidar com ferramentas como Power BI e Python;"
+        - "Automação de tarefas rotineiras, liberando mais tempo para atividades importantes;"
+        - "Otimização de processos internos, diminuindo desperdícios;"
+        - "Identificação de tendências e oportunidades para melhorar resultados;"
+        - "Fortalecimento de uma cultura corporativa orientada por dados."
     technologies:
       - "Estatística Básica"
-      - Power BI
-      - Excel
+      - "Power BI"
+      - "Excel"
       - "Google Sheets"
-      - Python
+      - "Python"
       - "Google Looker"
       - "Google Data Studio"
+      - "Inteligência Artificial"
+      - "Machine Learning"
+      - "Deep Learning"
+      - "Business Intelligence"
 
-  - role: Senior Software Developer
-    time: 2014 - 2018
-    company: Google
+  - role: Professor na Escola de Formação de Oficiais da Marinha Mercante
+    time: 2023 - 2025
+    company: "CIABA - MARINHA DO BRASIL"
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.
+      O profissional marítimo é, por natureza, multidisciplinar, pois atua em um ambiente que 
+      exige conhecimentos diversos em física, matemática e engenharia, desde a navegação e 
+      manobra de embarcações até o funcionamento de sistemas complexos de máquinas e eletrônica.
+      Tenho o privilégio de atuar como professor de Física e Matemática na Escola de Formação de 
+      Oficiais da Marinha Mercante (EFOMM) e no Centro de Instrução Almirante Brás de Aguiar 
+      (CIABA), contribuindo para a formação desses profissionais. É uma satisfação poder atender
+      a essa demanda diversificada, conectando teoria e prática para capacitar oficiais altamente
+      qualificados, preparados para enfrentar os desafios técnicos e operacionais do setor 
+      marítimo.
     achievements:
       desc: |
         Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
