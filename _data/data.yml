@@ -102,33 +102,36 @@ education:
         - Bullet point
 
 experiences:
-  - role: Lead Developer
-    time: 2018 - Present
-    company: Startup Hub
+  - role: Founder & CEO
+    time: 2018 - Atual
+    company: QualiData Treinamentos
     details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-      Donec pede justo, fringilla vel.
-        - Bullet point
-        - Bullet point
+      Atua na condução de treinamentos corporativos especializados em tecnologia e 
+      análise de dados, com foco em transformar dados brutos em informações estratégicas 
+      para as empresas. Os treinamentos abordam ferramentas como inteligência artificial, 
+      aprendizado de máquina, Power BI e Python, promovendo o desenvolvimento de equipes 
+      altamente capacitadas para tomar decisões baseadas em dados. Com uma metodologia 
+      prática e alinhada às demandas do mercado, os treinamentos aumentam a eficiência 
+      operacional, otimizam processos e geram resultados expressivos para os negócios. 
     achievements:
       desc: |
-        Praesentium voluptatum deleniti atque corrupti quos dolores et quas
-        molestias excepturi sint occaecati cupiditate non provident.
+        Como resultado desta atuação podemos destacar.
       highlights:
-        - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
-        - At vero eos et accusamus et iusto odio dignissimos.
-        - Blanditiis praesentium voluptatum deleniti atque corrupti.
-        - Maecenas tempus tellus eget.
+        - "Melhoria na eficiência: processos de análise de dados realizados de forma mais rápida e organizada."
+        - "Decisões mais assertivas: uso de dados confiáveis para direcionar ações estratégicas."
+        - "Equipe mais capacitada: colaboradores preparados para lidar com ferramentas como Power BI e Python."
+        - "Aumento da produtividade: automação de tarefas rotineiras, liberando mais tempo para atividades importantes."
+        - "Redução de custos: otimização de processos internos, diminuindo desperdícios."
+        - "Geração de insights valiosos: identificação de tendências e oportunidades para melhorar resultados."
+        - "Promoção de inovação: fortalecimento de uma cultura corporativa orientada por dados."
     technologies:
-      - Angular
+      - "Estatística Básica"
+      - Power BI
+      - Excel
+      - "Google Sheets"
       - Python
-      - jQuery
-      - Webpack
-      - HTML/SASS
-      - PostgresSQL
+      - "Google Looker"
+      - "Google Data Studio"
 
   - role: Senior Software Developer
     time: 2014 - 2018
