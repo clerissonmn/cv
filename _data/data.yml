@@ -37,7 +37,7 @@ summary: |
   Sou um profissional multidisciplinar com sólida experiência como professor, pesquisador e analista de dados. Na área acadêmica 
   leciono Física e Matemática do nível médio ao superior, conectando teoria e prática em diversas áreas, como Engenharia Elétrica, 
   Biomédica, Civil, Mecânica, Naval e Farmácia. Desenvolvo abordagens interdisciplinares que alinham conteúdos às demandas de cada 
-  profissão. Sou CEO e Founder da QualiData Traning que uma empresa especializada em treinamentos corporativos na área técnica e 
+  profissão. Sou CEO e Founder da QualiData Treinamentos que é uma empresa especializada em treinamentos corporativos na área técnica e 
   de análise de dados, transformando os dados brutos da companhia em informações valiosas.  Como pesquisador, atuo em Física da 
   Matéria Condensada, Nanoeletrônica e Plasmônica, com artigos, capítulos de livros e patentes registradas. Minha formação em 
   Engenharia Elétrica ampliou minha expertise em Eletrônica e Sistemas Embarcados, incluindo projetos com Arduino e robótica. 
@@ -45,9 +45,20 @@ summary: |
 
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MBA
+    university: Business Intelligence - ESTÁCIO
+    time: 2016 - 2017
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+      - Bullet point
+      - Bullet point
+  - degree: Pós-Doutorado
+    university: Engenharia - UFPA
+    time: 2016 - 2017
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -56,9 +67,42 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Doutorado
+    university: Engenharia - UFPA
+    time: 2012 - 2016
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: Doutorado
+    university: Engenharia - UFPA
+    time: 2012 - 2016
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: Mestrado
+    university: Física - UFPA
+    time: 2010 - 2012
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: Bacharelado
+    university: Física - UFPA
+    time: 206 - 2010
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
